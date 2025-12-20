@@ -1,0 +1,9 @@
+* cl-recaptcha
+
+Google reCAPTCHA integration for Common Lisp.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/madnificent/cl-recaptcha.git |
+| commit  | 144a04c                                             |
+| systems | cl-recaptcha                                        |
+|---------+-----------------------------------------------------|
